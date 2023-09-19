@@ -7,7 +7,7 @@ recognizer = sr.Recognizer()
 engine = pyttsx3.init()
 
 # Set up OpenAI API credentials
-openai.api_key = "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"
+openai.api_key = "PUT YOUR API KEY HERE"
 
 # Define the voice assistant function
 def voice_assistant():
